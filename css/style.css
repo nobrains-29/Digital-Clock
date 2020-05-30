@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: url("../images/22.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.background{
+    background-color: rgba(15, 0, 0, 0.5);
+    width: 60%;
+    height: 50vh;
+    margin: 0 auto;
+    overflow: auto;
+    margin-top: 25vh;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px red;
+    
+}
+#clock{
+    font-size: 10vw;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 70px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    text-align: center;
+    color:#000000;
+    padding-top: 18vh;
+    text-shadow: 0px 0px 10px red;
+    
+}
